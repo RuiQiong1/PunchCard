@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+myvenv/
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.idea/
+.vscode/
+
+# Database files (too large for GitHub)
+*.db
+
+# OS files
+Thumbs.db
+.DS_Store
